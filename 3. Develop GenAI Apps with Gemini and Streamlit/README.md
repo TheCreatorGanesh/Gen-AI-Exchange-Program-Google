@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=YfiLUpNejpE&list=PLIivdWyY5sqJio2yeg1dlfILOUO2Fo
   - https://github.com/GoogleCloudPlatform/generative-ai
 
 4. Utilize the Streamlit Framework with Cloud Run and the Gemini API in Vertex AI -> https://www.cloudskillsboost.google/course_templates/978/labs/488167
+
+5. Develop GenAI Apps with Gemini and Streamlit: Challenge Lab -> https://www.cloudskillsboost.google/course_templates/978/labs/488168
