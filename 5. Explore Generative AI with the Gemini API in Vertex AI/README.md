@@ -1,0 +1,1 @@
+Course Link: [Explore Generative AI with the Gemini API in Vertex AI](https://www.cloudskillsboost.google/course_templates/959)
